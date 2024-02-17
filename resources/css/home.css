@@ -34,10 +34,23 @@
 }
 
 .content-for-home .img-container {
-    width: 400px;
-    height: 400px;
-    background: url("../img/home_logo_bg_hero.png") no-repeat top left;
+    width: 600px;
+    height: 600px;
+    background: url("../img/owl.1.jpeg") no-repeat top left;
     background-size: cover;
+}
+audio {
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+h1 {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    color: #a61515;
+    margin-top: 20px;
 }
 
 .content-for-home .img-container img {
